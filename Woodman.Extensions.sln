@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Woodman.Extensions", "Woodman.Extensions\Woodman.Extensions.csproj", "{67FD20B3-0EA0-4D3C-8156-DE3B7A6B32BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Woodman.Extensions", "Test.Woodman.Extensions\Test.Woodman.Extensions.csproj", "{66C86188-CEC5-4539-ADFC-B7A9ABD53476}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2CC726D0-CCDA-4E3B-9416-F5297CB8BA53}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FD20B3-0EA0-4D3C-8156-DE3B7A6B32BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FD20B3-0EA0-4D3C-8156-DE3B7A6B32BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FD20B3-0EA0-4D3C-8156-DE3B7A6B32BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FD20B3-0EA0-4D3C-8156-DE3B7A6B32BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C86188-CEC5-4539-ADFC-B7A9ABD53476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C86188-CEC5-4539-ADFC-B7A9ABD53476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C86188-CEC5-4539-ADFC-B7A9ABD53476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C86188-CEC5-4539-ADFC-B7A9ABD53476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EABAC17-A75E-4C56-8250-57B952798017}
+	EndGlobalSection
+EndGlobal
